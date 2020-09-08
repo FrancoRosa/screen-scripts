@@ -6,3 +6,4 @@
 # #### Then, use the last data to make  the *--newmode* ### 
 xrandr --newmode "1368x768_60.00"   85.25  1368 1440 1576 1784  768 771 781 798 -hsync +vsync
 xrandr --addmode DP-2 1368x768_60.00
+# You can run this lines from boot, adding them on the ~/.xprofile, or the path to this file
